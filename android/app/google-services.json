@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88254843308",
+    "project_id": "ai-placement-app",
+    "storage_bucket": "ai-placement-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88254843308:android:328b1f3d66f6ef3c859209",
+        "android_client_info": {
+          "package_name": "com.example.lawazia_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvPEKJ3IsyoSJ3Xp7zOOS4Nq0ssIJUefc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
