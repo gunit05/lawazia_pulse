@@ -44,7 +44,10 @@ assets/
 
 android/ ios/ web/ windows
 
----
+
+## 📦 APK Download
+
+[Download APK](https://drive.google.com/file/d/1asd1bMRJHLtJIUyZAFUGQn9wHzt_UtsC/view?usp=sharing)
 
 ## 🔧 Setup Instructions
 
